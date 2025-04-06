@@ -111,7 +111,7 @@ export default function Header({ headerCls, headerTop }) {
                                             }} />
 
                                         </div>
-                                        <div className="social-links mt-5">
+                                        <div className="social-links mt-2">
                                             <ul className="clearfix list-wrap">
                                                 <p className="text-start">Për më shumë na ndiqni gjithashtu edhe në rrjetet tona sociale:</p>
                                                 <li className="mt-5"><a href="https://www.facebook.com/Metali.Ri" target="_blank"><i className="fab fa-facebook-f" style={{fontSize:"30px"}} /></a></li>
