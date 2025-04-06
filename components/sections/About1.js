@@ -8,7 +8,7 @@ export default function About1() {
                     <div className="row align-items-center">
                         <div className="col-xl-7 col-lg-6 order-0 order-lg-2">
                             <div className="about-img-wrap">
-                                <img src="/assets/img/banner/487779292_1049825783858581_3102963461077943358_n.jpg" alt="Fabrika Metali Ri" className="wow fadeInRight" data-wow-delay=".4s" />
+                                <img src="/assets/img/project/show-1.jpg" alt="Fabrika Metali Ri" className="wow fadeInRight" data-wow-delay=".4s" />
                                 <img src="/assets/img/banner/14.jpg" alt="Produkte Metali Ri" className="wow fadeInRight" data-wow-delay=".2s" />
                                 <div className="about-experiences-wrap">
                                     <div className="experiences-item">
