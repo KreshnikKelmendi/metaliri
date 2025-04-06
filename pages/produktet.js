@@ -54,7 +54,7 @@ export default function Produktet() {
         },
         {
             id: 9,
-            image: "/assets/img/project/project-9.JPG",
+            image: "/assets/img/project/project-9.png",
             title: "RIO CHAIR SET & ESPINA CHAIR SET",
             description: "Krijoni një ambient modern me modelet tona"
         },
@@ -66,256 +66,257 @@ export default function Produktet() {
         },
         {
             id: 11,
-            image: "/assets/img/project/project-11.JPG",
+            image: "/assets/img/project/project-11.png",
             title: "NOVA CHAIR SET",
             description: "Kombinim perfekt i stilit dhe rehatisë."
         },
         {
             id: 12,
-            image: "/assets/img/project/project-12.JPG",
+            image: "/assets/img/project/project-12.png",
             title: "RIO CHAIR SET",
             description: "Karrige elegante për çdo ambient."
         },
         {
             id: 13,
-            image: "/assets/img/project/project-13.JPG",
+            image: "/assets/img/project/project-13.png",
             title: "MONO CHAIR SET",
             description: "Kombinim perfekt i stilit dhe rehatisë për çdo ambient."
         },
         {
             id: 14,
-            image: "/assets/img/project/project-14.JPG",
+            image: "/assets/img/project/project-14.png",
             title: "ESPINA CHAIR SET",
             description: "Karrige elegante për çdo ambient."
         },
         {
             id: 15,
-            image: "/assets/img/project/project-15.JPG",
+            image: "/assets/img/project/project-15.png",
             title: "AREON CHAIR SET",
             description: "Kombinim perfekt i stilit dhe rehatisë për lokalin tuaj."
         },
         {
             id: 16,
-            image: "/assets/img/project/project-16.JPG",
+            image: "/assets/img/project/project-16.png",
             title: "Tavolina HPL ( Compact ) , Druri Masiv , MDF",
             description: "Tavolina për çdo ambient."
         },
         {
             id: 17,
-            image: "/assets/img/project/project-17.JPG",
+            image: "/assets/img/project/project-17.png",
             title: "RIO CHAIR",
             description: "Karrige elegante për çdo ambient."
         },
         {
             id: 18,
-            image: "/assets/img/project/project-18.JPG",
+            image: "/assets/img/project/project-18.png",
             title: "RIO CHAIR",
             description: "Karrige elegante për çdo ambient."
         },
         {
             id: 19,
-            image: "/assets/img/project/project-19.JPG",
+            image: "/assets/img/project/project-19.png",
             title: "RIO CHAIR",
             description: "Karrige elegante për çdo ambient."
         },
         {
             id: 20,
-            image: "/assets/img/project/project-20.JPG",
+            image: "/assets/img/project/project-20.png",
             title: "RIO CHAIR",
             description: "Karrige elegante për çdo ambient."
         },
         {
             id: 21,
-            image: "/assets/img/project/project-21.JPG",
+            image: "/assets/img/project/project-21.png",
             title: "",
             description: "Krijoni një ambijent modern me modelet tona elegante për çdo ambient."
         },
         {
             id: 22,
-            image: "/assets/img/project/project-22.JPG",
+            image: "/assets/img/project/project-22.png",
             title: "ESPINA CHAIR SET",
             description: "Krijoni një ambijent modern me modelet tona elegante për çdo ambient."
         },
         {
             id: 23,
-            image: "/assets/img/project/project-23.JPG",
+            image: "/assets/img/project/project-23.png",
             title: "",
             description: "Krijoni një ambijent modern me modelet tona"
         },
         {
             id: 24,
-            image: "/assets/img/project/project-24.JPG",
+            image: "/assets/img/project/project-24.png",
             title: "SOFA LUX SET",
             description: "Krijoni një ambijent modern me modelet tona"
         },
         {
             id: 25,
-            image: "/assets/img/project/project-25.JPG",
+            image: "/assets/img/project/project-25.png",
             title: "",
             description: "Krijoni një ambijent modern me modelet tona"
         },
         {
             id: 26,
-            image: "/assets/img/project/project-26.JPG",
+            image: "/assets/img/project/project-26.png",
             title: "Nova ChairSet",
             description: "Krijoni një ambijent modern me modelet tona"
         },
         {
             id: 27,
-            image: "/assets/img/project/project-27.JPG",
+            image: "/assets/img/project/project-27.png",
             title: "IBIZA ChairSet",
             description: "Krijoni një ambient modern me modelet tona"
         },
         {
             id: 28,
-            image: "/assets/img/project/project-28.JPG",
+            image: "/assets/img/project/project-28.png",
             title: "Malta ChairSet",
             description: "Krijoni një ambient modern me modelet tona"
         },
         {
             id: 29,
-            image: "/assets/img/project/project-29.JPG",
+            image: "/assets/img/project/project-29.png",
             title: "",
             description: "Krijoni një ambient modern me modelet tona"
         },
         {
             id: 30,
-            image: "/assets/img/project/project-30.JPG",
+            image: "/assets/img/project/project-30.png",
             title: "Elegance ChairSet",
             description: "Krijoni një ambient modern me modelet tona"
         },
         {
             id: 31,
-            image: "/assets/img/project/project-31.JPG",
+            image: "/assets/img/project/project-31.png",
             title: "Nova Chair",
             description: "Krijoni një ambient modern me modelet tona"
         },
         {
             id: 32,
-            image: "/assets/img/project/project-32.JPG",
+            image: "/assets/img/project/project-32.png",
             title: "Nova ChairSet",
             description: "Krijoni një ambient modern me modelet tona"
         },
         {
             id: 33,
-            image: "/assets/img/project/project-33.JPG",
+            image: "/assets/img/project/project-33.png",
             title: "Nova ChairSet",
             description: "Krijoni një ambient modern me modelet tona"
         },
         {
             id: 34,
-            image: "/assets/img/project/project-34.JPG",
+            image: "/assets/img/project/project-34.png",
             title: "MonoChairSet",
             description: "Krijoni një ambient modern me modelet tona"
         },
         {
             id: 35,
-            image: "/assets/img/project/project-35.JPG",
+            image: "/assets/img/project/project-35.png",
             title: "RioChairSet",
             description: "Krijoni një ambient modern me modelet tona"
         },
         {
             id: 36,
-            image: "/assets/img/project/project-36.JPG",
+            image: "/assets/img/project/project-36.png",
             title: "CairoWood",
             description: "Krijoni një ambient modern me modelet tona"
         },
         {
             id: 37,
-            image: "/assets/img/project/project-37.JPG",
+            image: "/assets/img/project/project-37.png",
             title: "CairoWood",
             description: "Krijoni një ambient modern me modelet tona"
         },
         {
             id: 38,
-            image: "/assets/img/project/project-38.JPG",
+            image: "/assets/img/project/project-38.png",
             title: "Sofa Capo Set",
             description: "Krijoni një ambient modern me modelet tona"
         },
         {
             id: 39,
-            image: "/assets/img/project/project-39.JPG",
+            image: "/assets/img/project/project-39.png",
             title: "Sofa Capo Set",
             description: "Krijoni një ambient modern me modelet tona"
         },
         {
             id: 40,
-            image: "/assets/img/project/project-40.JPG",
+            image: "/assets/img/project/project-40.png",
             title: "Aragon Chair Set",
             description: "Krijoni një ambient modern me modelet tona"
         },
         {
             id: 41,
-            image: "/assets/img/project/project-41.JPG",
+            image: "/assets/img/project/project-41.png",
             title: "RITA CHAIR",
             description: "Krijoni një ambient modern me modelet tona"
         },
         {
             id: 42,
-            image: "/assets/img/project/project-42.JPG",
+            image: "/assets/img/project/project-42.png",
             title: "RIO Model & Tavolina HPL Compact",
             description: "Krijoni një ambient modern me modelet tona"
         },
         {
             id: 43,
-            image: "/assets/img/project/project-43.JPG",
+            image: "/assets/img/project/project-43.png",
             title: "",
             description: "Krijoni një ambient modern me modelet tona"
         },
         {
             id: 44,
-            image: "/assets/img/project/project-44.JPG",
+            image: "/assets/img/project/project-44.png",
             title: "RITA CHAIR SET",
             description: "Krijoni një ambient modern me modelet tona"
         },
         {
             id: 45,
-            image: "/assets/img/project/project-45.JPG",
+            image: "/assets/img/project/project-45.png",
             title: "RITA CHAIR SET",
             description: "Krijoni një ambient modern me modelet tona"
         },
         {
             id: 46,
-            image: "/assets/img/project/project-46.JPG",
+            image: "/assets/img/project/project-46.png",
             title: "",
             description: "Krijoni një ambient modern me modelet më ekskluzive në treg"
         },
         {
             id: 47,
-            image: "/assets/img/project/project-47.JPG",
+            image: "/assets/img/project/project-47.png",
             title: "ARAGON CHAIR SET",
             description: "Krijoni një ambient modern me modelet më ekskluzive në treg"
         },
         {
             id: 48,
-            image: "/assets/img/project/project-48.JPG",
+            image: "/assets/img/project/project-48.png",
             title: "RIO CHAIR SET",
             description: "Krijoni një ambient modern me modelet më ekskluzive në treg"
         },
         {
             id: 49,
-            image: "/assets/img/project/project-49.JPG",
+            image: "/assets/img/project/project-49.png",
             title: "LOUIS CHAIR SET",
             description: "Krijoni një ambient modern me modelet më ekskluzive në treg"
         },
         {
             id: 50,
-            image: "/assets/img/project/project-50.JPG",
+            image: "/assets/img/project/project-50.png",
             title: "ARDENO CHAIR SET",
             description: "Krijoni një ambient modern me modelet më ekskluzive në treg"
         },
         {
             id: 51,
-            image: "/assets/img/project/project-51.JPG",
+            image: "/assets/img/project/project-51.png",
             title: "ESPINA CHAIR SET",
             description: "Krijoni një ambient modern me modelet më ekskluzive në treg"
         },
         {
             id: 52,
-            image: "/assets/img/project/project-52.JPG",
+            image: "/assets/img/project/project-52.png",
             title: "",
             description: "Krijoni një ambient modern me modelet më ekskluzive në treg"
-        },
+        }
+
     ]
 
     // Pagination state
